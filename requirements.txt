@@ -22,7 +22,7 @@ pyarrow
 fastparquet
 PyDispatcher
 pynvml
-setuptools==59.5.0
+setuptools==65.5.1
 wandb>=0.13.5
 pytest>=7.1.0
 attrdict
